@@ -1,0 +1,4 @@
+Temporary empty Notepad file
+Hello World!
+
+Edited and added this line.
